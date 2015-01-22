@@ -1,5 +1,3 @@
 # experiments-with-pull-requests
 
-## testing a pull request
-
-### novo teste denovo
+## Now I'm using GitHub for mac.
